@@ -12,7 +12,7 @@
 
 ## About
 
-I am a Ugandan software engineer, technology entrepreneur, and applied researcher. I lead **Pivosoft**, founded **AgriX**, and established **Pivosoft Technology Academy** to support young people building skills and careers in technology.
+I am a software engineer, technology entrepreneur, and applied researcher. I lead **Pivosoft**, founded **AgriX**, and established **Pivosoft Technology Academy** to support young people building skills and careers in technology.
 
 I completed an **MSc in Computer Science at the University of Edinburgh** as a **Chevening Scholar**. My research uses satellite Earth observation and machine learning to identify maize stress early in smallholder farms in Eastern Uganda. The research proposal received the **Best Research Proposal** award from the University of Edinburgh School of Informatics.
 
