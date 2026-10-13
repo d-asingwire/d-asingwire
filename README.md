@@ -60,4 +60,4 @@ I also hold a **BSc in Software Engineering from Makerere University**, graduati
 
 I welcome conversations about software products, applied research, agritech, partnerships, and technology mentorship.
 
-[Portfolio](https://dallington.pivosoft.com) · [Pivosoft](https://pivosoft.com) · [Pivosoft Technology Academy](https://academy.pivosoft.com) · [AgriX](https://agrixfarm.com) · [GitHub](https://github.com/d-asingwire)
+[Portfolio](https://dallington.pivosoft.com) · [Pivosoft](https://pivosoft.com) · [Pivosoft Technology Academy](https://pivosoftacademy.com) · [AgriX](https://agrixfarm.com) · [GitHub](https://github.com/d-asingwire)
